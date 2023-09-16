@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple_Calculator</string>
+    <string name="ArrLabel">\?</string>
+    <string name="numOneHint">Enter A</string>
+    <string name="numTwoHint">Enter B</string>
+    <string name="pickOpBtnLabel">Pick Operation</string>
+    <string name="calcBtnLabel">Calculate</string>
+    <string name="clearBtnLabel">Clear</string>
+    <string name="opRadiosLabel">Operation:</string>
+    <string name="radioAddLabel">Add</string>
+    <string name="radioLabelSub">Subtract</string>
+    <string name="radioLabelMult">Multiply</string>
+    <string name="radioLabelDiv">Divide</string>
+    <string name="btnLabelSelect">Select</string>
+    <string name="btnLabelCancel">Cancel</string>
+    <string name="textViewEquals">=</string>
+    <string name="btnClose">Close</string>
+</resources>
